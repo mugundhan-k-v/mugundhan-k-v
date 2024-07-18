@@ -7,7 +7,7 @@
 🌐 Web Development Enthusiast<br>- 🌱 I’m currently learning **MEAN STACK**<br>- 💡 Excited about building dynamic and responsive front-end experiences.<br>- 🚀 Always exploring new technologies and frameworks to stay on the cutting edge.<br><br>🌟 What I'm Up To<br>- 📚 Studying Information Technology at Bannari Amman Institute of Technology.<br>- 💻 Actively contributing to open-source projects.<br>- 🌐 Building cool projects that merge creativity with functionality.
 
 ## 🌐 Socials:
-<a href="https://linkedin.com/in/https://linkedin.com/in/mugundhan-k-v-bb8882277" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/mugundhan-k-v-bb8882277" height="30" width="40" />
+<a href="https://linkedin.com/in/mugundhan-k-v-bb8882277" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 <a href="https://www.hackerrank.com/@mugundhan_it22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@mugundhan_it22" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mugundhan_k_v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mugundhan_k_v" height="30" width="40" /></a>
 

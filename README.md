@@ -21,8 +21,5 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mugundhan-k-v&theme=default&no-frame=false&no-bg=false&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mugundhan-k-v&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mugundhan-k-v&label=Profile%20views&color=0e75b6&style=flat" alt="mugundhan-k-v" /> </p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

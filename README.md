@@ -21,4 +21,3 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mugundhan-k-v&label=Profile%20views&color=0e75b6&style=flat" alt="mugundhan-k-v" /> </p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<img src="https://raw.githubusercontent.com/mugundhan-k-v/mugundhan-k-v/output/snake.svg" alt="Snake animation" /><br>
